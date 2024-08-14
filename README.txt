@@ -10,7 +10,7 @@ This WordPress plugin highlights empty SKU fields in WooCommerce product variati
 1.0
 
 ## Author:
-Your Name
+Poppy Signs Ltd
 
 ## Features:
 - Highlights WooCommerce product variations in the admin panel based on whether the SKU field is filled or empty.
