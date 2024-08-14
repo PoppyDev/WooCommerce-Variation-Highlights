@@ -32,3 +32,9 @@ Poppy Signs Ltd
   - Detecting empty SKU fields.
   - Applying color-coded highlights to variation headers in the WooCommerce product editor.
 - The JavaScript file `wv-highlighter.js` is enqueued only in the WP admin area to prevent frontend load.
+
+-----------------------
+
+The use of this tool will allow you to identify an array of variations that have been created by a large number of attribute settings. It can be pain staking when you create 200+ variations and start to loose which ones are active (through SKU's that are used), and to those that are not ready to be be made live just yet based on your criteria. Its always a good rule to keep those that are not required to have an empty SKU and to be desabled (unticked on [Enable] checkbox) to prevent issues on the front end, and to allow you to manage your products.
+
+This tool can then be deactivated/removed when not required without effecting your variation setup.
