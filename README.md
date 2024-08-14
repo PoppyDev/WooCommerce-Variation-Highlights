@@ -26,3 +26,5 @@ It can be pain staking when you create 200+ variations and start to loose which 
 It's always a good rule to keep those that are not required to have an empty SKU and to be desabled (unticked on [Enable] checkbox) to prevent issues on the front end, and to allow you to manage your products much easier.
 
 It will also allow you to identify duplicate SKU's and highlight the box when removed, making it easier to see which variation requires a valid SKU.
+
+This plugin can be removed/deleted when finished with to help keep your site clean of unwanted code after use. It can always be re-installed when required. It will leave no trace behing in the databse and is purely coded to rely on JS.
