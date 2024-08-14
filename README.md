@@ -27,4 +27,4 @@ It's always a good rule to keep those that are not required to have an empty SKU
 
 It will also allow you to identify duplicate SKU's and highlight the box when removed, making it easier to see which variation requires a valid SKU.
 
-This plugin can be removed/deleted when finished with to help keep your site clean of unwanted code after use. It can always be re-installed when required. It has no connection to your databse and purely relise on JS to function.
+This plugin can be removed/deleted when finished with to help keep your site clean of unwanted code after use. It can always be re-installed when required. It has no connection to your database and relise on a 2kb JS file to function.
