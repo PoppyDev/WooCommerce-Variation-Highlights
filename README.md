@@ -21,7 +21,7 @@ This WordPress plugin highlights empty SKU fields in WooCommerce product variati
 
 The use of this tool will allow you to identify an array of variations that have been created when using a large number of attribute settings.
 
-It can be pain staking when you create 200+ variations and start to loose which ones are active (through SKU's that are used), and to those that are not ready to be be made live just yet based on your criteria.
+It can be painstaking when you create 200+ variations and start to lose which ones are active (through SKU's that are used), and to those that are not ready to be be made live just yet based on your criteria.
 
 It's always a good rule to keep those that are not required to have an empty SKU and to be desabled (unticked on [Enable] checkbox) to prevent issues on the front end, and to allow you to manage your products much easier.
 
